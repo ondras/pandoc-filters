@@ -1,4 +1,4 @@
-# pandoc-code-file
+# code-file
 
 This [pandoc](http://johnmacfarlane.net/pandoc/) filter inserts source code files into code block sections.
 
